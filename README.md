@@ -36,7 +36,7 @@ An autonomous manipulation project capable of identifying, picking, and sorting 
 
 2.  **Clone Repository**
     ```bash
-    git clone [https://github.com/dyn-dal-037/7DOF-Color-Sorting-Manipulator-Franka-Panda.git](https://github.com//YOUR_REPO_NAME.git) .
+    git clone https://github.com/dyn-dal-037/7DOF-Color-Sorting-Manipulator-Franka-Panda.git .
     ```
 
 3.  **Install Dependencies**
