@@ -66,7 +66,6 @@ In a new terminal, run the controller to begin the sorting loop:
 
 ros2 run panda_controller pick_and_place_node
 ```
-## 🤝 Credits & Inspiration
-It is based on the Franka Panda Color Sorting Robot project by MechaMind Labs.
+## 🤝 Inspiration
+It is inspired my Manipulation projects by MechaMind Labs.
 
-* Original Creator: MechaMind Labs
